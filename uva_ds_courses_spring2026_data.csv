@@ -1,0 +1,170 @@
+Course Mnemonic,Course Title,Instructor,Room,Day(s) of the week,Start time,End time
+DS 1001,Foundation of Data Science,Brian Wright,Nau Hall 101,MoWe,02:00 PM,03:15 PM
+DS 1001,Foundation of Data Science,Ali Rivera,Data Science Building Room 206,Fr,02:00 PM,02:50 PM
+DS 1001,Foundation of Data Science,TBD,Data Science Building Room 206,Fr,12:00 PM,12:50 PM
+DS 1001,Foundation of Data Science,Ali Rivera,Data Science Building Room 206,Fr,01:00 PM,01:50 PM
+DS 1001,Foundation of Data Science,TBD,Data Science Building Room 306,Fr,12:00 PM,12:50 PM
+DS 1001,Foundation of Data Science,TBD,Data Science Building Room 306,Fr,01:00 PM,01:50 PM
+DS 1002,Programming for Data Science,Mai Dahshan,Data Science Building Room 305,MoWe,03:30 PM,04:45 PM
+DS 1002,Programming for Data Science,Mai Dahshan,Data Science Building Room 305,TuTh,02:00 PM,03:15 PM
+DS 2002,Data Science Systems,Jon Tupitza,Data Science Building Room 305,MoWeFr,09:00 AM,09:50 AM
+DS 2002,Data Science Systems,Jason Williamson,Data Science Building Room 305,MoWeFr,10:00 AM,10:50 AM
+DS 2002,Data Science Systems,Karsten Siller,Data Science Building Room 205,MoWeFr,09:00 AM,09:50 AM
+DS 2003,Communicating with Data,Nur Yildirim,Data Science Building Room 205,TuTh,09:30 AM,10:45 AM
+DS 2003,Communicating with Data,Hannah Bako,Data Science Building Room 305,MoWeFr,11:00 AM,11:50 AM
+DS 2004,Data Ethics,Emanuel Moss,Data Science Building Room 305,TuTh,11:00 AM,12:15 PM
+DS 2004,Data Ethics,David Danks,Data Science Building Room 206,TuTh,12:30 PM,01:45 PM
+DS 2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,Data Science Building Room 205,MoWe,02:00 PM,03:15 PM
+DS 2024,Value I: Ethics & Policy in Data Science - Major,Aaron Martin,Data Science Building Room 205,MoWe,03:30 PM,04:45 PM
+DS 3001,Foundations of Machine Learning,Terence Johnson,Data Science Building Room 305,TuTh,12:30 PM,01:45 PM
+DS 3001,Foundations of Machine Learning,Cheng Peng,Data Science Building Room 305,TuTh,09:30 AM,10:45 AM
+DS 3001,Foundations of Machine Learning,Michael Freenor,Data Science Building Room 305,TuTh,03:30 PM,04:45 PM
+DS 3001,Foundations of Machine Learning,Ethan Nelson,Data Science Building Room 305,MoWe,05:00 PM,06:15 PM
+DS 3021,Analytics I: Foundations of Machine Learning,Brian Wright,Data Science Building Room 205,TuTh,02:00 PM,03:15 PM
+DS 3021,Analytics I: Foundations of Machine Learning,Terence Johnson,Data Science Building Room 205,TuTh,03:30 PM,04:45 PM
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,TuTh,11:00 AM,12:15 PM
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,We,01:00 PM,01:50 PM
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,TuTh,12:30 PM,01:45 PM
+DS 3025,Mathematics for Data Science,Gianluca Guadagni,Data Science Building Room 205,Mo,01:00 PM,01:50 PM
+DS 3026,Principles of Inference and Prediction,Prince Afriyie,Data Science Building Room 306,MoWe,02:00 PM,03:15 PM
+DS 3026,Principles of Inference and Prediction,Prince Afriyie,Data Science Building Room 306,MoWe,03:30 PM,04:45 PM
+DS 4002,Data Science Project,Javier Rasero,Data Science Building Room 205,MoWeFr,10:00 AM,10:50 AM
+DS 4002,Data Science Project,Karsten Siller,Data Science Building Room 206,MoWeFr,11:00 AM,11:50 AM
+DS 4023,Data Design II: Interactive Applications,Mai Dahshan,Data Science Building Room 306,TuTh,12:30 PM,01:45 PM
+DS 4024,Value II: Explainable AI,Farhana Faruqe,Data Science Building Room 306,TuTh,02:00 PM,03:15 PM
+DS 4024,Value II: Explainable AI,Chirag Agarwal,Data Science Building Room 306,TuTh,03:30 PM,04:45 PM
+DS 4125,Introduction to Deep Learning,Jianxin Xie,Data Science Building Room 206,MoWeFr,10:00 AM,10:50 AM
+DS 4320,Data by Design,Loreto Alonzi,Data Science Building Room 206,MoWe,02:00 PM,03:15 PM
+DS 4320,Data by Design,Loreto Alonzi,Data Science Building Room 206,MoWe,03:30 PM,04:45 PM
+DS 4993,Independent Study in Data Science,Alex Gates,TBA,TBA,TBA,TBA
+DS 4993,Independent Study in Data Science,Stephen Baek,TBA,TBA,TBA,TBA
+DS 5001,Text as Data,Rafael Alvarado,Data Science Building Room 205,MoWeFr,11:00 AM,11:50 AM
+DS 5001,Text as Data,Sree Mallikarjun,Web-Based Course,Tu,06:00 PM,07:00 PM
+DS 5003,Healthcare Data Science,Christian Wernz,Web-Based Course,Tu,07:15 PM,08:15 PM
+DS 5007,Don't Invent The Torment Nexus: The History of Technology & Work,Mar Hicks,Web-Based Course,Tu,08:30 PM,09:30 PM
+DS 5012,Computation for Data Science,Yuri Malitsky,Web-Based Course,We,08:30 PM,09:30 PM
+DS 5023,Interactive Applications,Mai Dahshan,Data Science Building Room 306,TuTh,12:30 PM,01:45 PM
+DS 5030,Understanding Uncertainty,Jeffrey Woo,Web-Based Course,Tu,07:15 PM,08:15 PM
+DS 5070,Deep Learning in Environmental Science,Antonios Mamalakis,New Cabell Hall 395,TuTh,09:30 AM,10:45 AM
+DS 5220,Advanced Cloud Computing,Neal Magee,Data Science Building Room 205,MoWeFr,12:00 PM,12:50 PM
+DS 6001,Data Engineering I: Data Pipeline Architecture,Jonathan Kropko,Web-Based Course,Tu,08:30 PM,09:30 PM
+DS 6002,Ethics of Big Data I,Farhana Faruqe,Data Science Building Room 306,TuTh,09:30 AM,10:45 AM
+DS 6002,Ethics of Big Data I,Farhana Faruqe,Data Science Building Room 306,TuTh,11:00 AM,12:15 PM
+DS 6002,Ethics of Big Data I,Renee Cummings,Web-Based Course,Th,06:00 PM,07:00 PM
+DS 6002,Ethics of Big Data I,Renee Cummings,Web-Based Course,Th,06:00 PM,07:00 PM
+DS 6015,Data Science Capstone,Philip Waggoner,Web-Based Course,Th,07:15 PM,09:15 PM
+DS 6015,Data Science Capstone,Rafael Alvarado,Web-Based Course,Th,07:15 PM,09:15 PM
+DS 6015,Data Science Capstone,Adam Tashman,Web-Based Course,Th,07:15 PM,09:15 PM
+DS 6021,Machine Learning I: Introduction to Predictive Modeling,Jeffrey Woo,Web-Based Course,We,07:15 PM,08:15 PM
+DS 6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,Data Science Building Room 206,TuTh,09:30 AM,10:45 AM
+DS 6030,Machine Learning II: Data Mining & Statistical Learning,Michael Porter,Data Science Building Room 206,TuTh,11:00 AM,12:15 PM
+DS 6050,Machine Learning III: Deep Learning,Tom Hartvigsen,Data Science Building Room 306,MoWeFr,10:00 AM,10:50 AM
+DS 6050,Machine Learning III: Deep Learning,Tom Hartvigsen,Data Science Building Room 306,MoWeFr,11:00 AM,11:50 AM
+DS 6050,Machine Learning III: Deep Learning,Heman Shakeri,Web-Based Course,We,07:15 PM,08:15 PM
+DS 6210,Computation II: Numerical Analysis & Optimization,Heman Shakeri,Data Science Building Room 246,MoWe,12:30 PM,01:45 PM
+DS 6310,Theory II: Inference & Prediction,Jordan Bryan; Thomas Stewart,Data Science Building Room 246,TuTh,09:30 AM,10:45 AM
+DS 6404,Physics-Aware Deep Learning,Stephen Baek,Data Science Building Room 246,TuTh,11:00 AM,12:15 PM
+DS 6410,Advanced Machine Learning II: Methods & Application,Aiying Zhang,Data Science Building Room 246,MoWe,09:30 AM,10:45 AM
+DS 6425,Time Series Modeling,Don Brown,Data Science Building Room 246,MoWe,02:00 PM,03:15 PM
+DS 6700,"Value I: Data Ethics, Policy and Governance",Jess Reia,Data Science Building Room 246,MoWe,03:30 PM,04:45 PM
+DS 6993,Independent Study,Gianluca Guadagni,TBA,TBA,TBA,TBA
+DS 6993,Independent Study,John Van Horn,TBA,TBA,TBA,TBA
+DS 6993,Independent Study,Stephen Baek,TBA,TBA,TBA,TBA
+DS 6993,Independent Study,Slava Krushkal,TBA,TBA,TBA,TBA
+DS 6993,Independent Study,Mar Hicks,TBA,TBA,TBA,TBA
+DS 6993,Independent Study,Tom Hartvigsen,TBA,TBA,TBA,TBA
+DS 6993,Independent Study,Neal Magee,TBA,TBA,TBA,TBA
+DS 6993,Independent Study,Sheng Li,TBA,TBA,TBA,TBA
+DS 6993,Independent Study,Chirag Agarwal,TBA,TBA,TBA,TBA
+DS 6993,Independent Study,Aiying Zhang,(0),TBA,TBA,TBA
+DS 6993,Independent Study,Chirag Agarwal,TBA,TBA,TBA,TBA
+DS 7600,Design I: Human-Centered Design,Nur Yildirim,Data Science Building Room 206,TuTh,02:00 PM,03:15 PM
+DS 8104,Network Science,Alex Gates,Data Science Building Room 246,TuTh,03:30 PM,04:45 PM
+DS 8998,Master's Level Thesis Research,Aaron Abrams,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Prince Afriyie,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Chirag Agarwal,(0),TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,YY Ahn,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Loreto Alonzi,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Rafael Alvarado,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Stephen Baek,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Hannah Bako,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Peter Beling,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Jeffrey Blume,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Don Brown,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Jordan Bryan,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Tyler Cody,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Mai Dahshan,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Farhana Faruqe,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Judy Fox,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Alex Gates,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Daniel Graham,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Gianluca Guadagni,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Tom Hartvigsen,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Teague Henry,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Mar Hicks,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Terence Johnson,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Jonathan Kropko,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Natalie Kupperman,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Lei Li,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Sheng Li,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Neal Magee,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Paul Perrin,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Michael Porter,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Javier Rasero,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Jess Reia,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Heman Shakeri,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Karsten Siller,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Mona Sloane,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Thomas Stewart,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Adam Tashman,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Stephen Turner,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,John Van Horn,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Brian Wright,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Jianxin Xie,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Nur Yildirim,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,Aiying Zhang,TBA,TBA,TBA,TBA
+DS 8998,Master's Level Thesis Research,David Danks,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Aaron Abrams,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Prince Afriyie,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Chirag Agarwal,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,YY Ahn,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Loreto Alonzi,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Rafael Alvarado,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Stephen Baek,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Hannah Bako,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Peter Beling,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Jeffrey Blume,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Don Brown,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Jordan Bryan,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Tyler Cody,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Mai Dahshan,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Farhana Faruqe,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Judy Fox,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Alex Gates,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Daniel Graham,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Gianluca Guadagni,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Tom Hartvigsen,(0),TBA,TBA,TBA
+DS 9999,Dissertation Research,Teague Henry,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Mar Hicks,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Terence Johnson,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Jonathan Kropko,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Natalie Kupperman,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Lei Li,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Sheng Li,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Neal Magee,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Paul Perrin,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Michael Porter,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Javier Rasero,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Jess Reia,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Heman Shakeri,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Karsten Siller,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Mona Sloane,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Thomas Stewart,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Adam Tashman,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Stephen Turner,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,David Danks,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,John Van Horn,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Brian Wright,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Jianxin Xie,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Nur Yildirim,TBA,TBA,TBA,TBA
+DS 9999,Dissertation Research,Aiying Zhang,TBA,TBA,TBA,TBA
